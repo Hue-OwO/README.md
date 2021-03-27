@@ -3,3 +3,4 @@
 <hr>
 <h2>Info</h2>
 How do I GitHub?
+<hr>
