@@ -4,6 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hue-owo&hide_border=true&theme=radical&show_icons=true">
 </div>
 <hr>
-<div class="content" style="text-align: center">>
+<div class="content" style="margin: 0 auto;">
 <p>How do I GitHub?</p>
 </div>
