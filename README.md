@@ -5,5 +5,5 @@
 </div>
 <hr>
 <div class="content">
-<p>How do I GitHub?</p>
+<p>uwu</p>
 </div>
