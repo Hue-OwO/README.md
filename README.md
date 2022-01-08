@@ -5,5 +5,5 @@
 </div>
 <hr>
 <div class="content">
-<iframe src="https://hue.gay>
+<iframe src="https://hue.gay" />
 </div>
